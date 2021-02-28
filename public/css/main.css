@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    background-color: #282a36;
+    padding-top: 70px;
+}
+nav a{
+    font-size: 24px;
+}
+
+nav img{
+    width: 60px;
+    border-radius: 50%;
+}
+
+.navbar-toggler-icon{
+    color: red !important;
+}

@@ -1,0 +1,73 @@
+.navbar-dark .navbar-toggler{
+    border-color: transparent !important;
+    outline: none;
+}
+.top-title{
+    font-size: 38px;
+    margin-bottom: 20px;
+    width: 70%;
+}
+
+.main-content{
+    text-align: center;
+   margin-top: 30px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   color: white;
+}
+
+.main-content form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.main-content form p{
+    max-width: 80%;
+}
+
+.ee {
+    color: aliceblue !important;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.ee:hover{
+    text-decoration: none;
+}
+
+
+.main-content .form-buttons a{
+    background-color: aliceblue;
+    display: block;
+    padding: 5px 30px;
+    color: black;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    width: 240px;
+}
+
+.main-content .row:last-child a{
+    margin-bottom: 20px;
+}
+
+.main-content .form-input{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content .form-input input{
+    padding: 8px 20px;
+    width: 240px;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+

@@ -1,0 +1,45 @@
+.dev{
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.dev .dev-links{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.dev .dev-links img{
+    width: 40px;
+}
+
+.dev .dev-links img:hover{
+    color: red;
+}
+
+.notice{
+    width: 60%;
+    text-align: center;
+}
+
+.notice a{
+    color: white;
+}
+
+.notice img{
+    margin-top: 80px;
+    margin-bottom: 100px;
+
+    width: 300px;
+    text-align: center;
+}
+
+@media(max-width: 500px){
+    .notice img{
+        margin-top: 80px;
+        width: 60vw;
+        margin-bottom: 100px;
+    }
+}
