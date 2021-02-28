@@ -3,5 +3,5 @@ As buscas são feitas pela API do TMDb, todas as informações contidas nessa ap
 A aplicação pode ser acessada em http://floating-bayou-30253.herokuapp.com/home <br> <br> 
 <b>Tecnologias utilizadas:<br></b>
 Front-end: HTML, CSS e Bootstrap. <br>
-Back-end: Php e Laravel.
+Back-end: Php e Laravel. <br>
 See you soon, Php :) 
